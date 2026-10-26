@@ -1,0 +1,2 @@
+best_alexnet_scratch.pt filter=lfs diff=lfs merge=lfs -text
+best_alexnet.pt filter=lfs diff=lfs merge=lfs -text
